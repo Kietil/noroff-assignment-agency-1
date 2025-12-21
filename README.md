@@ -1,8 +1,9 @@
 # The Quote Generator
 
-Are you missing one point for your intelligence build? Level up 👉 [here](https://kietil.github.io/noroff-assignment-agency-1)
+![Project Screenshot](./cover.jpg)
 
-![Project Screenshot](./screenshot1.jpg)
+Are you missing one point for your intelligence build?
+Level up 👉 [Here!](https://kietil.github.io/noroff-assignment-agency-1)
 
 Noroff's "Agency 1" where "Design and code collaboration" was the main focus. We aimed to build something simple that could be expanded in the future.
 
