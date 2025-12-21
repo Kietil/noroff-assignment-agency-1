@@ -1,3 +1,5 @@
+# The Quote Generator
+
 Are you missing one point for your intelligence build? Level up 👉 [here](https://kietil.github.io/noroff-assignment-agency-1)
 
 ![Project Screenshot](./screenshot1.jpg)
